@@ -42,7 +42,7 @@
   }
 </style>
 
-<!-- NOV - 27 -->
+
 
 <!-- NAVIGATIONBAR -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
